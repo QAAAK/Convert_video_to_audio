@@ -1,6 +1,5 @@
 import moviepy.editor
 
-
 from pathlib import Path
 
 video_file = Path('video.mp4')
